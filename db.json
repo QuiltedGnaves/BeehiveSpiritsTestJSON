@@ -1,5 +1,6 @@
+
 {
-    "beer": [
+    "beerlist": [
         {
             "name": "Kentucky Brunch Brand Stout",
             "brand": "Toppling Goliath Brewing Company",
@@ -28,7 +29,7 @@
             "price": 21.99
         }
     ],
-    "liquor": [
+    "liquorlist": [
         {
             "name": "Craft Spirits Bourbon",
             "brand": "Barrell",
@@ -56,7 +57,7 @@
             "price": 25.00
         }
     ],
-    "wine": [
+    "winelist": [
         {
             "name": "Paso Robles",
             "brand": "1858",
