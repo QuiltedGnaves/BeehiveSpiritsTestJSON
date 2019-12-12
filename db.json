@@ -9,7 +9,7 @@
                 "price": 7.99,
                 "image_url": "",
                 "locations": ["Downtown", "Holiday", "Draper"],
-                "Inventory": 28
+                "inventory": 28
             },
             {
                 "name": "Marshmallow Handjee",
@@ -18,7 +18,7 @@
                 "price": 12.99,
                 "image_url": "",
                 "locations": ["Downtown", "Holiday", "Draper"],
-                "Inventory": 28
+                "inventory": 28
             },{
                 "name": "Pliny The Younger",
                 "brand": "Russian River Brewing Company",
@@ -26,7 +26,7 @@
                 "price": 8.99,
                 "image_url": "",
                 "locations": ["Downtown", "Holiday", "Draper"],
-                "Inventory": 28
+                "inventory": 28
             },{
                 "name": "Zenne Y Frontera",
                 "brand": "Brouwerij 3 Fonteinen",
@@ -34,7 +34,7 @@
                 "price": 3.99,
                 "image_url": "",
                 "locations": ["Downtown", "Holiday", "Draper"],
-                "Inventory": 28
+                "inventory": 28
             },{
                 "name": "Trappist Westvleteren 12 (XII)",
                 "brand": "Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren)",
@@ -42,7 +42,7 @@
                 "price": 21.99,
                 "image_url": "",
                 "locations": ["Downtown", "Holiday", "Draper"],
-                "Inventory": 28
+                "inventory": 28
             }
         ]
     },
@@ -55,7 +55,7 @@
                 "price": 250.00,
                 "image_url": "",
                 "locations": ["Downtown", "Holiday", "Draper"],
-                "Inventory": 28
+                "inventory": 28
             },{
                 "name": "Black Art Edition 06.1",
                 "brand": "Bruichladdich",
@@ -63,7 +63,7 @@
                 "price": 420.00,
                 "image_url": "",
                 "locations": ["Downtown", "Holiday", "Draper"],
-                "Inventory": 28
+                "inventory": 28
             },{
                 "name": "American Dry Gin",
                 "brand": "Lock & Union",
@@ -71,7 +71,7 @@
                 "price": 42.00,
                 "image_url": "",
                 "locations": ["Downtown", "Holiday", "Draper"],
-                "Inventory": 28
+                "inventory": 28
             },{
                 "name": "Extra Anejo 00",
                 "brand": "Enemigo",
@@ -79,7 +79,7 @@
                 "price": 170.00,
                 "image_url": "",
                 "locations": ["Downtown", "Holiday", "Draper"],
-                "Inventory": 28
+                "inventory": 28
             },{
                 "name": "Xaymaca Special Dry",
                 "brand": "Plantation",
@@ -87,7 +87,7 @@
                 "price": 25.00,
                 "image_url": "",
                 "locations": ["Downtown", "Holiday", "Draper"],
-                "Inventory": 28
+                "inventory": 28
             }
         ]
     },
@@ -100,7 +100,7 @@
                 "price": 34.99,
                 "image_url": "",
                 "locations": ["Downtown", "Holiday", "Draper"],
-                "Inventory": 28
+                "inventory": 28
             },{
                 "name": "Un-Oaked",
                 "brand": "River Road",
@@ -108,7 +108,7 @@
                 "price": 13.99,
                 "image_url": "",
                 "locations": ["Downtown", "Holiday", "Draper"],
-                "Inventory": 28
+                "inventory": 28
             },{
                 "name": "Reserve Willamette",
                 "brand": "Samuel Robert Winery",
@@ -116,7 +116,7 @@
                 "price": 15.99,
                 "image_url": "",
                 "locations": ["Downtown", "Holiday", "Draper"],
-                "Inventory": 28
+                "inventory": 28
             },{
                 "name": "Marlborough",
                 "brand": "Framingham",
@@ -124,7 +124,7 @@
                 "price": 15.99,
                 "image_url": "",
                 "locations": ["Downtown", "Holiday", "Draper"],
-                "Inventory": 28
+                "inventory": 28
             },
             {
                 "name": "Loma Gorda Old Vine",
@@ -133,7 +133,7 @@
                 "price": 0.00,
                 "image_url": "",
                 "locations": ["Downtown", "Holiday", "Draper"],
-                "Inventory": 28
+                "inventory": 28
             }
         ]
     }
