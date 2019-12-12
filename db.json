@@ -6,28 +6,43 @@
                 "name": "Kentucky Brunch Brand Stout",
                 "brand": "Toppling Goliath Brewing Company",
                 "type": "American Imperial Stout",
-                "price": 7.99
+                "price": 7.99,
+                "image_url": "",
+                "locations": ["Downtown", "Holiday", "Draper"],
+                "Inventory": 28
             },
             {
                 "name": "Marshmallow Handjee",
                 "brand": "3 Floyds Brewing Co.",
                 "type": "Russian Imperial Stout",
-                "price": 12.99
+                "price": 12.99,
+                "image_url": "",
+                "locations": ["Downtown", "Holiday", "Draper"],
+                "Inventory": 28
             },{
                 "name": "Pliny The Younger",
                 "brand": "Russian River Brewing Company",
                 "type": "American Imperial IPA",
-                "price": 8.99
+                "price": 8.99,
+                "image_url": "",
+                "locations": ["Downtown", "Holiday", "Draper"],
+                "Inventory": 28
             },{
                 "name": "Zenne Y Frontera",
                 "brand": "Brouwerij 3 Fonteinen",
                 "type": "Belgian Lambic",
-                "price": 3.99
+                "price": 3.99,
+                "image_url": "",
+                "locations": ["Downtown", "Holiday", "Draper"],
+                "Inventory": 28
             },{
                 "name": "Trappist Westvleteren 12 (XII)",
                 "brand": "Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren)",
                 "type": "Belgian Quadrupel (Quad)",
-                "price": 21.99
+                "price": 21.99,
+                "image_url": "",
+                "locations": ["Downtown", "Holiday", "Draper"],
+                "Inventory": 28
             }
         ]
     },
@@ -37,27 +52,42 @@
                 "name": "Craft Spirits Bourbon",
                 "brand": "Barrell",
                 "type": "Whiskey",
-                "price": 250.00
+                "price": 250.00,
+                "image_url": "",
+                "locations": ["Downtown", "Holiday", "Draper"],
+                "Inventory": 28
             },{
                 "name": "Black Art Edition 06.1",
                 "brand": "Bruichladdich",
                 "type": "Whisky",
-                "price": 420.00
+                "price": 420.00,
+                "image_url": "",
+                "locations": ["Downtown", "Holiday", "Draper"],
+                "Inventory": 28
             },{
                 "name": "American Dry Gin",
                 "brand": "Lock & Union",
                 "type": "Gin",
-                "price": 42.00
+                "price": 42.00,
+                "image_url": "",
+                "locations": ["Downtown", "Holiday", "Draper"],
+                "Inventory": 28
             },{
                 "name": "Extra Anejo 00",
                 "brand": "Enemigo",
                 "type": "Tequila",
-                "price": 170.00
+                "price": 170.00,
+                "image_url": "",
+                "locations": ["Downtown", "Holiday", "Draper"],
+                "Inventory": 28
             },{
                 "name": "Xaymaca Special Dry",
                 "brand": "Plantation",
                 "type": "Rum",
-                "price": 25.00
+                "price": 25.00,
+                "image_url": "",
+                "locations": ["Downtown", "Holiday", "Draper"],
+                "Inventory": 28
             }
         ]
     },
@@ -67,28 +97,43 @@
                 "name": "Paso Robles",
                 "brand": "1858",
                 "type": "Cabernet Sauvignon",
-                "price": 34.99
+                "price": 34.99,
+                "image_url": "",
+                "locations": ["Downtown", "Holiday", "Draper"],
+                "Inventory": 28
             },{
                 "name": "Un-Oaked",
                 "brand": "River Road",
                 "type": "Chardonnay",
-                "price": 13.99
+                "price": 13.99,
+                "image_url": "",
+                "locations": ["Downtown", "Holiday", "Draper"],
+                "Inventory": 28
             },{
                 "name": "Reserve Willamette",
                 "brand": "Samuel Robert Winery",
                 "type": "Pinot Noir",
-                "price": 15.99
+                "price": 15.99,
+                "image_url": "",
+                "locations": ["Downtown", "Holiday", "Draper"],
+                "Inventory": 28
             },{
                 "name": "Marlborough",
                 "brand": "Framingham",
                 "type": "Sauvignon Blanc",
-                "price": 15.99
+                "price": 15.99,
+                "image_url": "",
+                "locations": ["Downtown", "Holiday", "Draper"],
+                "Inventory": 28
             },
             {
                 "name": "Loma Gorda Old Vine",
                 "brand": "San Gregorio",
                 "type": "Grenache",
-                "price": 0.00
+                "price": 0.00,
+                "image_url": "",
+                "locations": ["Downtown", "Holiday", "Draper"],
+                "Inventory": 28
             }
         ]
     }
