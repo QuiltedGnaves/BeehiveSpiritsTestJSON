@@ -10,13 +10,16 @@
                 "image_url": "",
                 "locations": [
                     {
-                        "Downtown": "205 W 400 S, Salt Lake City"
+                        "location_name": "Downtown",
+                        "location_address": "205 W 400 S, Salt Lake City"
                     },
                     {
-                        "Holladay": "1814 E Murray Holladay Rd, Holladay"
+                        "location_name": "Holladay",
+                        "location_address": "1814 E Murray Holladay Rd, Holladay"
                     },
                     {
-                        "Draper": "14445 Minuteman Dr, Draper"
+                        "location_name": "Draper",
+                        "location_address": "14445 Minuteman Dr, Draper"
                     }
                 ],
                 "inventory": 28
@@ -29,13 +32,16 @@
                 "image_url": "",
                 "locations": [
                     {
-                        "Downtown": "205 W 400 S, Salt Lake City"
+                        "location_name": "Downtown",
+                        "location_address": "205 W 400 S, Salt Lake City"
                     },
                     {
-                        "Holladay": "1814 E Murray Holladay Rd, Holladay"
+                        "location_name": "Holladay",
+                        "location_address": "1814 E Murray Holladay Rd, Holladay"
                     },
                     {
-                        "Draper": "14445 Minuteman Dr, Draper"
+                        "location_name": "Draper",
+                        "location_address": "14445 Minuteman Dr, Draper"
                     }
                 ],
                 "inventory": 28
@@ -47,13 +53,16 @@
                 "image_url": "",
                 "locations": [
                     {
-                        "Downtown": "205 W 400 S, Salt Lake City"
+                        "location_name": "Downtown",
+                        "location_address": "205 W 400 S, Salt Lake City"
                     },
                     {
-                        "Holladay": "1814 E Murray Holladay Rd, Holladay"
+                        "location_name": "Holladay",
+                        "location_address": "1814 E Murray Holladay Rd, Holladay"
                     },
                     {
-                        "Draper": "14445 Minuteman Dr, Draper"
+                        "location_name": "Draper",
+                        "location_address": "14445 Minuteman Dr, Draper"
                     }
                 ],
                 "inventory": 28
@@ -65,13 +74,16 @@
                 "image_url": "",
                 "locations": [
                     {
-                        "Downtown": "205 W 400 S, Salt Lake City"
+                        "location_name": "Downtown",
+                        "location_address": "205 W 400 S, Salt Lake City"
                     },
                     {
-                        "Holladay": "1814 E Murray Holladay Rd, Holladay"
+                        "location_name": "Holladay",
+                        "location_address": "1814 E Murray Holladay Rd, Holladay"
                     },
                     {
-                        "Draper": "14445 Minuteman Dr, Draper"
+                        "location_name": "Draper",
+                        "location_address": "14445 Minuteman Dr, Draper"
                     }
                 ],
                 "inventory": 28
@@ -83,13 +95,16 @@
                 "image_url": "",
                 "locations": [
                     {
-                        "Downtown": "205 W 400 S, Salt Lake City"
+                        "location_name": "Downtown",
+                        "location_address": "205 W 400 S, Salt Lake City"
                     },
                     {
-                        "Holladay": "1814 E Murray Holladay Rd, Holladay"
+                        "location_name": "Holladay",
+                        "location_address": "1814 E Murray Holladay Rd, Holladay"
                     },
                     {
-                        "Draper": "14445 Minuteman Dr, Draper"
+                        "location_name": "Draper",
+                        "location_address": "14445 Minuteman Dr, Draper"
                     }
                 ],
                 "inventory": 28
@@ -106,13 +121,16 @@
                 "image_url": "",
                 "locations": [
                     {
-                        "Downtown": "205 W 400 S, Salt Lake City"
+                        "location_name": "Downtown",
+                        "location_address": "205 W 400 S, Salt Lake City"
                     },
                     {
-                        "Holladay": "1814 E Murray Holladay Rd, Holladay"
+                        "location_name": "Holladay",
+                        "location_address": "1814 E Murray Holladay Rd, Holladay"
                     },
                     {
-                        "Draper": "14445 Minuteman Dr, Draper"
+                        "location_name": "Draper",
+                        "location_address": "14445 Minuteman Dr, Draper"
                     }
                 ],
                 "inventory": 28
@@ -124,13 +142,16 @@
                 "image_url": "",
                 "locations": [
                     {
-                        "Downtown": "205 W 400 S, Salt Lake City"
+                        "location_name": "Downtown",
+                        "location_address": "205 W 400 S, Salt Lake City"
                     },
                     {
-                        "Holladay": "1814 E Murray Holladay Rd, Holladay"
+                        "location_name": "Holladay",
+                        "location_address": "1814 E Murray Holladay Rd, Holladay"
                     },
                     {
-                        "Draper": "14445 Minuteman Dr, Draper"
+                        "location_name": "Draper",
+                        "location_address": "14445 Minuteman Dr, Draper"
                     }
                 ],
                 "inventory": 28
@@ -142,13 +163,16 @@
                 "image_url": "",
                 "locations": [
                     {
-                        "Downtown": "205 W 400 S, Salt Lake City"
+                        "location_name": "Downtown",
+                        "location_address": "205 W 400 S, Salt Lake City"
                     },
                     {
-                        "Holladay": "1814 E Murray Holladay Rd, Holladay"
+                        "location_name": "Holladay",
+                        "location_address": "1814 E Murray Holladay Rd, Holladay"
                     },
                     {
-                        "Draper": "14445 Minuteman Dr, Draper"
+                        "location_name": "Draper",
+                        "location_address": "14445 Minuteman Dr, Draper"
                     }
                 ],
                 "inventory": 28
@@ -160,13 +184,16 @@
                 "image_url": "",
                 "locations": [
                     {
-                        "Downtown": "205 W 400 S, Salt Lake City"
+                        "location_name": "Downtown",
+                        "location_address": "205 W 400 S, Salt Lake City"
                     },
                     {
-                        "Holladay": "1814 E Murray Holladay Rd, Holladay"
+                        "location_name": "Holladay",
+                        "location_address": "1814 E Murray Holladay Rd, Holladay"
                     },
                     {
-                        "Draper": "14445 Minuteman Dr, Draper"
+                        "location_name": "Draper",
+                        "location_address": "14445 Minuteman Dr, Draper"
                     }
                 ],
                 "inventory": 28
@@ -178,13 +205,16 @@
                 "image_url": "",
                 "locations": [
                     {
-                        "Downtown": "205 W 400 S, Salt Lake City"
+                        "location_name": "Downtown",
+                        "location_address": "205 W 400 S, Salt Lake City"
                     },
                     {
-                        "Holladay": "1814 E Murray Holladay Rd, Holladay"
+                        "location_name": "Holladay",
+                        "location_address": "1814 E Murray Holladay Rd, Holladay"
                     },
                     {
-                        "Draper": "14445 Minuteman Dr, Draper"
+                        "location_name": "Draper",
+                        "location_address": "14445 Minuteman Dr, Draper"
                     }
                 ],
                 "inventory": 28
@@ -201,13 +231,16 @@
                 "image_url": "",
                 "locations": [
                     {
-                        "Downtown": "205 W 400 S, Salt Lake City"
+                        "location_name": "Downtown",
+                        "location_address": "205 W 400 S, Salt Lake City"
                     },
                     {
-                        "Holladay": "1814 E Murray Holladay Rd, Holladay"
+                        "location_name": "Holladay",
+                        "location_address": "1814 E Murray Holladay Rd, Holladay"
                     },
                     {
-                        "Draper": "14445 Minuteman Dr, Draper"
+                        "location_name": "Draper",
+                        "location_address": "14445 Minuteman Dr, Draper"
                     }
                 ],
                 "inventory": 28
@@ -219,13 +252,16 @@
                 "image_url": "",
                 "locations": [
                     {
-                        "Downtown": "205 W 400 S, Salt Lake City"
+                        "location_name": "Downtown",
+                        "location_address": "205 W 400 S, Salt Lake City"
                     },
                     {
-                        "Holladay": "1814 E Murray Holladay Rd, Holladay"
+                        "location_name": "Holladay",
+                        "location_address": "1814 E Murray Holladay Rd, Holladay"
                     },
                     {
-                        "Draper": "14445 Minuteman Dr, Draper"
+                        "location_name": "Draper",
+                        "location_address": "14445 Minuteman Dr, Draper"
                     }
                 ],
                 "inventory": 28
@@ -237,13 +273,16 @@
                 "image_url": "",
                 "locations": [
                     {
-                        "Downtown": "205 W 400 S, Salt Lake City"
+                        "location_name": "Downtown",
+                        "location_address": "205 W 400 S, Salt Lake City"
                     },
                     {
-                        "Holladay": "1814 E Murray Holladay Rd, Holladay"
+                        "location_name": "Holladay",
+                        "location_address": "1814 E Murray Holladay Rd, Holladay"
                     },
                     {
-                        "Draper": "14445 Minuteman Dr, Draper"
+                        "location_name": "Draper",
+                        "location_address": "14445 Minuteman Dr, Draper"
                     }
                 ],
                 "inventory": 28
@@ -255,13 +294,16 @@
                 "image_url": "",
                 "locations": [
                     {
-                        "Downtown": "205 W 400 S, Salt Lake City"
+                        "location_name": "Downtown",
+                        "location_address": "205 W 400 S, Salt Lake City"
                     },
                     {
-                        "Holladay": "1814 E Murray Holladay Rd, Holladay"
+                        "location_name": "Holladay",
+                        "location_address": "1814 E Murray Holladay Rd, Holladay"
                     },
                     {
-                        "Draper": "14445 Minuteman Dr, Draper"
+                        "location_name": "Draper",
+                        "location_address": "14445 Minuteman Dr, Draper"
                     }
                 ],
                 "inventory": 28
@@ -274,13 +316,16 @@
                 "image_url": "",
                 "locations": [
                     {
-                        "Downtown": "205 W 400 S, Salt Lake City"
+                        "location_name": "Downtown",
+                        "location_address": "205 W 400 S, Salt Lake City"
                     },
                     {
-                        "Holladay": "1814 E Murray Holladay Rd, Holladay"
+                        "location_name": "Holladay",
+                        "location_address": "1814 E Murray Holladay Rd, Holladay"
                     },
                     {
-                        "Draper": "14445 Minuteman Dr, Draper"
+                        "location_name": "Draper",
+                        "location_address": "14445 Minuteman Dr, Draper"
                     }
                 ],
                 "inventory": 28
