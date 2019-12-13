@@ -3,28 +3,6 @@
     "beerlist": {
         "beers" : [
             {
-                "name": "Kentucky Brunch Brand Stout",
-                "brand": "Toppling Goliath Brewing Company",
-                "type": "American Imperial Stout",
-                "price": 7.99,
-                "image_url": "",
-                "locations": [
-                    {
-                        "location_name": "Downtown",
-                        "location_address": "205 W 400 S, Salt Lake City"
-                    },
-                    {
-                        "location_name": "Holladay",
-                        "location_address": "1814 E Murray Holladay Rd, Holladay"
-                    },
-                    {
-                        "location_name": "Draper",
-                        "location_address": "14445 Minuteman Dr, Draper"
-                    }
-                ],
-                "inventory": 28
-            },
-            {
                 "name": "Marshmallow Handjee",
                 "brand": "3 Floyds Brewing Co.",
                 "type": "Russian Imperial Stout",
@@ -89,7 +67,7 @@
                 "inventory": 28
             },{
                 "name": "Trappist Westvleteren 12 (XII)",
-                "brand": "Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren)",
+                "brand": "Brouwerij Westvleteren",
                 "type": "Belgian Quadrupel (Quad)",
                 "price": 21.99,
                 "image_url": "",
@@ -114,27 +92,6 @@
     "liquorlist": {
         "liquors": [
             {
-                "name": "Craft Spirits Bourbon",
-                "brand": "Barrell",
-                "type": "Whiskey",
-                "price": 250.00,
-                "image_url": "",
-                "locations": [
-                    {
-                        "location_name": "Downtown",
-                        "location_address": "205 W 400 S, Salt Lake City"
-                    },
-                    {
-                        "location_name": "Holladay",
-                        "location_address": "1814 E Murray Holladay Rd, Holladay"
-                    },
-                    {
-                        "location_name": "Draper",
-                        "location_address": "14445 Minuteman Dr, Draper"
-                    }
-                ],
-                "inventory": 28
-            },{
                 "name": "Black Art Edition 06.1",
                 "brand": "Bruichladdich",
                 "type": "Whisky",
@@ -269,27 +226,6 @@
                 "name": "Reserve Willamette",
                 "brand": "Samuel Robert Winery",
                 "type": "Pinot Noir",
-                "price": 15.99,
-                "image_url": "",
-                "locations": [
-                    {
-                        "location_name": "Downtown",
-                        "location_address": "205 W 400 S, Salt Lake City"
-                    },
-                    {
-                        "location_name": "Holladay",
-                        "location_address": "1814 E Murray Holladay Rd, Holladay"
-                    },
-                    {
-                        "location_name": "Draper",
-                        "location_address": "14445 Minuteman Dr, Draper"
-                    }
-                ],
-                "inventory": 28
-            },{
-                "name": "Marlborough",
-                "brand": "Framingham",
-                "type": "Sauvignon Blanc",
                 "price": 15.99,
                 "image_url": "",
                 "locations": [
